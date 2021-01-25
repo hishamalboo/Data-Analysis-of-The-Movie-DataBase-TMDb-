@@ -1,5 +1,5 @@
 # Data-Analysis-of-The-Movie-DataBase-TMDb-
- # <font size=5 color=#00b3b3>Data Analysis of The Movie DataBase (TMDb)</font>
+
 
 
 <a id='intro'></a>
